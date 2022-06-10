@@ -1,6 +1,7 @@
 #import libraries----------------------------------------------------
 import streamlit as st
 import pandas as pd
+import lxml 
 
 #name of the app-----------------------------------------------------
 st.set_page_config(layout="wide")
